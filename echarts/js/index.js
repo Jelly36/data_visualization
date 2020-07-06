@@ -275,8 +275,7 @@
     myChart.resize();
   });
 })();
-// 学习进度柱状图模块
-(function() {
+// 学习进度柱状图模块(function() {
   // 基于准备好的dom，初始化echarts实例
   var myChart = echarts.init(document.querySelector(".bar1 .chart"));
 

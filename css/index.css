@@ -83,9 +83,13 @@ header .showTime {
   font-size: 0.25rem;
   font-weight: 400;
 }
+.panel h2 a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 0.125rem;
+}
 .panel .chart {
   height: 3rem;
-  background-color: pink;
 }
 .panel-footer {
   position: absolute;
